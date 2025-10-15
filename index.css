@@ -1,0 +1,18 @@
+body {
+  background-color: #1b1b32;
+  color: #eee;
+  text-align: center;
+}
+
+main {
+  margin-top: 50px;
+}
+
+input {
+  background-color: #eee;
+  margin: 10px 0 10px 0;
+}
+
+#rez {
+  color: rgba(255, 255, 255, 0.3)
+}
